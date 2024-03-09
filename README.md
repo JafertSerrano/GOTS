@@ -1,2 +1,2 @@
 # GOTS
-Repositorio del grupo de óptica y tratamiento de señales UIS
+Repositorio del Grupo de Óptica y Tratamiento de Señales UIS
