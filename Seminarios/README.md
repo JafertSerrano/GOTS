@@ -6,5 +6,5 @@ Ej: 23-09-26 - Polarización
 
 - [LaTex Overleaf](https://www.overleaf.com/read/ffjpjgqbrgbj).
 
-- [Word]().
+- Word
 
