@@ -1,5 +1,6 @@
 ## Cronograma 
 
-- Marzo : Cristian Hernández
+- Marzo : Cristian Hernández.
 -  Marco
--  Marzo 11: Miguel J. Serrano y Cristian Hernández
+-  Marzo 11: Miguel J. Serrano y Cristian Hernández.
+-  Marzo 18: Óscar Puentes.
