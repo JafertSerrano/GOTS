@@ -1,10 +1,5 @@
 ## Cronograma 
 
-- Marzo : Cristian Hernández.
--  Marco
--  Marzo 11: Miguel J. Serrano y Cristian Hernández.
--  Marzo 18: Óscar Puentes.
-
 | Fecha | Ponente | Tema |
 | --- | :---: | --- |
 | `Febrero 19` | Cristian Hernández | Estudio de las transformaciones de luz parcialmente polarizada en sistemas de placas compuestas. |
