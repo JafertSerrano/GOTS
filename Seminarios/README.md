@@ -1,6 +1,6 @@
 # Seminarios-GOTS
 
-En esta carpeta se encuentran los documentos que son entregados por los ponentes del Seminario del GOTS. A continuación se presenta el formato de Seminario para realizar la publicidad. Este formato debe subirse, idealmente, al menos 5 días antes de la fecha de presentación. 
+En esta carpeta se encuentran los documentos que son entregados por los ponentes del *Seminario GOTS*. En este documento consta de información básica sobre el tema a exponer en este espacio con el fin de realizar la publicidad. Este formato debe subirse, idealmente, al menos 5 días antes de la fecha de presentación. 
 
 Link: https://www.overleaf.com/read/ffjpjgqbrgbj
 
