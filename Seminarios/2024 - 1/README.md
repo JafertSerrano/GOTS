@@ -1,8 +1,8 @@
 ## Cronograma 
 
 | Fecha | Ponente | Tema |
-| ---- | :---: | --- |
-| `Febrero 19` | Cristian Hernández | Estudio de las transformaciones de luz parcialmente polarizada en sistemas de placas compuestas. |
+| --- | :---: | --- |
+| `Febrero 19`<br> | Cristian Hernández | Estudio de las transformaciones de luz parcialmente polarizada en sistemas de placas compuestas. |
 | `Febrero 26` | Marcos Carrillo |  Estudio de la formación de imágenes para un dioptrío esférico en los puntos de Young-Weierstrass considerando el caracter vectorial del campo electromagnetico. |
 | `Marzo 04` | GOTS | Reunión interna. |
 | `Marzo 11` | Miguel J. Serrano |  Distribuciones Cuánticas de Polarización. |
