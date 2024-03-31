@@ -9,7 +9,7 @@
 | `Marzo 11` | Cristian Hernández |  Estudio de las transformaciones de luz parcialmente polarizada en sistemas de placas compuestas. |
 | `Marzo 18` | Oscar Puentes |  Propuesta de un modelo cartesiano del ojo humano. |
 | `Marzo 25` | Festivo |  Festivo |
-| `Abril 1` | Angie Solano |   |
+| `Abril 1` | Angie Solano | Auto Modulación espacial de fase en medios ópticos no lineales |
 | `Abril 1` | Elkin Santos | Sistemas de formación de imágenes no locales con fotones entrelazados  |
 | `Abril 8` |  |   |
 | `Abril 15` |  |   |
