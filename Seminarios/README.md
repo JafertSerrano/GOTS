@@ -19,7 +19,8 @@ Ej: 23-09-26 - Polarización
 | `Marzo 11` | Cristian Hernández |  Estudio de las transformaciones de luz parcialmente polarizada en sistemas de placas compuestas. |
 | `Marzo 18` | Oscar Puentes |  Propuesta de un modelo cartesiano del ojo humano. |
 | `Marzo 25` | Festivo |  Festivo |
-| `Abril 1` |  |   |
+| `Abril 1` | Angie Solano |   |
+| `Abril 1` | Elkin Santos | Sistemas de formación de imágenes no locales con fotones entrelazados |
 | `Abril 8` |  |   |
 | `Abril 15` |  |   |
 | `Abril 22` |  |   |
